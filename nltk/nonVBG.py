@@ -1,0 +1,1 @@
+nonVBG = ['thing', 'something', 'during', 'bring', 'nothing', 'anything', 'morning', 'everything', 'evening', 'king', 'ring', 'sing', 'spring', 'wing', 'string', 'willing', 'wedding', 'swing', 'earring', 'outstanding', 'ceiling', 'darling', 'cling', 'forthcoming', 'fling', 'sterling', 'neighboring', 'neighbouring', 'pudding', 'shilling', 'unwilling', 'offspring']
